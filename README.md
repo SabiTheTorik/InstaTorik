@@ -4,6 +4,8 @@
 
 ### This code only works on CMD Windows 
 
+### This version is Turkish if you want it in English message me!
+
 
 ### Requirements
 
