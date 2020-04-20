@@ -1,5 +1,9 @@
 # Insta Torik
 
+### Instagram
+
+https://www.instagram.com/sabi_yomtov/?hl=tr
+
 ### You must run "run.py"
 
 ### This code only works on CMD Windows 
