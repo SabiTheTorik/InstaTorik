@@ -10,6 +10,8 @@ https://www.instagram.com/sabi_yomtov/?hl=tr
 
 ### This code only works on CMD Windows 
 
+### I can do it for linux too
+
 ### This version is Turkish if you want it in English message me!
 
 
