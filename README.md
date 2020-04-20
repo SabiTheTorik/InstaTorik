@@ -1,5 +1,7 @@
 # Insta Torik
 
+Brute force attack on CMD Windows for Instagram.
+
 ### Instagram
 
 https://www.instagram.com/sabi_yomtov/?hl=tr
